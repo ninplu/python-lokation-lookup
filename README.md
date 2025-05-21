@@ -1,4 +1,4 @@
-# python-lokation-lookup
+# python-location-lookup
 
 A beginner-friendly Python script that uses the [OpenGeo API](https://py4e-data.dr-chuck.net/opengeo?) to fetch detailed geolocation information based on a user-provided address.
 
